@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time: 2020/6/16 16:36
 # @Author: Yudong Zhong
-# @File: planeIndex.py
+# @File: planeOpt.py
 # @Software: PyCharm
 
 import random
